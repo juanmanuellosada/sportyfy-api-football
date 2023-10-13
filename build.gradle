@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id 'application'
 }
 
 group = 'sportyfy.api-football'
@@ -17,3 +18,4 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+mainClassName = 'sportyfy.apiFootball.Main'
