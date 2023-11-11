@@ -3,7 +3,20 @@ package sportyfy.apiFootball;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+/*
+ * Clase para procesar los JSONs de partidos
+ * 
+ */
 public class ProcesadorJson {
+
+    /*
+     * Método para procesar los JSONs de equipos
+     * 
+     * @param respuesta Respuesta de la API
+     * 
+     * @return JSON con los equipos procesados a mi manera
+     * 
+     */
     public static JSONArray procesarEquipos(String respuesta) {
         JSONObject jsonObject = new JSONObject(respuesta);
         JSONArray equiposFull = jsonObject.getJSONArray("response");
@@ -22,6 +35,14 @@ public class ProcesadorJson {
         return equipos;
     }
 
+    /*
+     * Método para procesar los JSONs de partidos
+     * 
+     * @param respuesta Respuesta de la API
+     * 
+     * @return JSON con los partidos procesados a mi manera
+     * 
+     */
     public static JSONArray procesarPartidos(String respuesta) {
         JSONObject jsonObject = new JSONObject(respuesta);
         JSONArray partidosFull = jsonObject.getJSONArray("response");
@@ -33,7 +54,7 @@ public class ProcesadorJson {
             JSONObject equipos = enfrentamientoFull.getJSONObject("teams");
             JSONObject goles = enfrentamientoFull.getJSONObject("goals");
 
-            if(goles.isNull("home") || goles.isNull("away")) {
+            if (goles.isNull("home") || goles.isNull("away")) {
                 continue;
             }
 
@@ -43,20 +64,25 @@ public class ProcesadorJson {
             JSONObject equipoLocalOriginal = equipos.getJSONObject("home");
             JSONObject equipoVisitanteOriginal = equipos.getJSONObject("away");
 
-            JSONObject equipoLocal = new JSONObject();
-            JSONObject equipoVisitante = new JSONObject();
-
-            equipoLocal.put("id", equipoLocalOriginal.getInt("id"));
-
-            equipoVisitante.put("id", equipoVisitanteOriginal.getInt("id"));
-
             JSONObject partidoJSON = new JSONObject();
-            partidoJSON.put("equipoLocal", equipoLocal);
-            partidoJSON.put("equipoVisitante", equipoVisitante);
-            partidoJSON.put("golesLocal", golesLocal);
-            partidoJSON.put("golesVisitante", golesVisitante);
+            JSONObject partidoResultado = new JSONObject();
+            JSONObject partidoLocal = new JSONObject();
+            JSONObject partidoVisitante = new JSONObject();
 
-            partidos.put(partidoJSON);
+            partidoLocal.put("nombre", equipoLocalOriginal.getString("name"));
+            partidoVisitante.put("nombre", equipoVisitanteOriginal.getString("name"));
+
+            partidoResultado.put("marcadorPorEquipo", new JSONObject()
+                    .put(partidoLocal.getString("nombre"), golesLocal)
+                    .put(partidoVisitante.getString("nombre"), golesVisitante));
+
+            partidoJSON.put("resultado", partidoResultado);
+
+            partidoJSON.put("partido", new JSONObject()
+                    .put("visitante", partidoVisitante)
+                    .put("local", partidoLocal));
+
+            partidos.put(new JSONObject().put("resultadoPartido", partidoJSON));
         }
 
         return partidos;
