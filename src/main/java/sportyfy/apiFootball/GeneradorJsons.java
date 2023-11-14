@@ -116,9 +116,9 @@ public class GeneradorJsons {
                 ArchivoJson.guardarPartidosEnArchivo(partidos, carpeta, equipo.getInt("id"),
                         equipo.getString("nombre").replace(" ", "_"));
 
-                // Retraso de 3 segundos entre solicitudes para no superar el límite de
-                // peticiones por minuto
-                Thread.sleep(6000);
+                // Retraso de 6 segundos entre solicitudes para no superar el límite de
+                // peticiones por minuto (solo se pueden 10)
+                Thread.sleep(6);
             }
         } catch (IOException e) {
             logger.severe("Error en la generación de JSON de partidos: " + e.getMessage());
