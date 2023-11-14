@@ -9,7 +9,7 @@ import org.json.JSONObject;
  */
 public class ProcesadorJson {
 
-    /*
+    /**
      * Método para procesar los JSONs de equipos
      * 
      * @param respuesta Respuesta de la API
@@ -18,24 +18,19 @@ public class ProcesadorJson {
      * 
      */
     public static JSONArray procesarEquipos(String respuesta) {
-        JSONObject jsonObject = new JSONObject(respuesta);
-        JSONArray equiposFull = jsonObject.getJSONArray("response");
+        JSONArray equiposFull = new JSONObject(respuesta).getJSONArray("response");
         JSONArray equipos = new JSONArray();
 
         for (int i = 0; i < equiposFull.length(); i++) {
             JSONObject equipoCompleto = equiposFull.getJSONObject(i);
-            JSONObject equipoReducido = equipoCompleto.getJSONObject("team");
-
-            JSONObject equipoReducido2 = new JSONObject()
-                    .put("nombre", equipoReducido.getString("name"))
-                    .put("id", equipoReducido.getInt("id"));
-
-            equipos.put(equipoReducido2);
+            equipos.put(new JSONObject()
+                    .put("nombre", equipoCompleto.getJSONObject("team").getString("name"))
+                    .put("id", equipoCompleto.getJSONObject("team").getInt("id")));
         }
         return equipos;
     }
 
-    /*
+    /**
      * Método para procesar los JSONs de partidos
      * 
      * @param respuesta Respuesta de la API

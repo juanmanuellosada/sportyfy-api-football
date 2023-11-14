@@ -1,0 +1,422 @@
+[
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 2,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Godoy Cruz": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Godoy Cruz"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 3,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 3,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Boca Juniors"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 1,
+            "Central Cordoba de Santiago": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Defensa Y Justicia"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 0,
+            "Central Cordoba de Santiago": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Tigre"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 1,
+            "Central Cordoba de Santiago": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Belgrano Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 0,
+            "Central Cordoba de Santiago": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Union Santa Fe"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 1,
+            "Central Cordoba de Santiago": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Racing Club"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Estudiantes L.P.": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes L.P."},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "River Plate": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "River Plate"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 0,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 1,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Belgrano Cordoba"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Talleres Cordoba": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Talleres Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 1,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 1,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 0,
+            "Central Cordoba de Santiago": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Tigre"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Velez Sarsfield": 4
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Velez Sarsfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 0,
+            "Central Cordoba de Santiago": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Arsenal Sarandi"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 1,
+            "Central Cordoba de Santiago": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Defensa Y Justicia"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 1,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 1,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Banfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Godoy Cruz": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Godoy Cruz"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 2,
+            "Barracas Central": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Barracas Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 1,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Union Santa Fe"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "Central Cordoba de Santiago": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 2,
+            "Huracan": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Huracan"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "San Lorenzo": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "San Lorenzo"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 0,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Gimnasia L.P."},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 1,
+            "Estudiantes L.P.": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Estudiantes L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 2,
+            "Newells Old Boys": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 2,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Rosario Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 3,
+            "Central Cordoba de Santiago": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Racing Club"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Atletico Tucuman": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Comunicaciones": 0,
+            "Central Cordoba de Santiago": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Comunicaciones"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 0,
+            "Central Cordoba de Santiago": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Sarmiento Junin"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 0,
+            "Central Cordoba de Santiago": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Instituto Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 1,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Sarmiento Junin"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Independiente"}
+        }
+    }}
+]

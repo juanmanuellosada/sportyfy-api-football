@@ -1,0 +1,422 @@
+[
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 0,
+            "San Lorenzo": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "San Lorenzo"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 1,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 2,
+            "Godoy Cruz": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Godoy Cruz"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 1,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 1,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 1,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Banfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 2,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Defensa Y Justicia"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 1,
+            "Lanus": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Tigre"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 0,
+            "Lanus": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Belgrano Cordoba"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 0,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Union Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 2,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Racing Club"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Lanus": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 2,
+            "San Lorenzo": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "San Lorenzo"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 2,
+            "Estudiantes L.P.": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Estudiantes L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 0,
+            "Lanus": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Rosario Central"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 2,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Racing Club"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 0,
+            "River Plate": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "River Plate"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 0,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Belgrano Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 0,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 2,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Tigre"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 0,
+            "Lanus": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Arsenal Sarandi"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 1,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 4,
+            "Godoy Cruz": 4
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Godoy Cruz"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 1,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Union Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 1,
+            "Huracan": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Huracan"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 1,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Gimnasia L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 2,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 1,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 2,
+            "Talleres Cordoba": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Talleres Cordoba"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 1,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 0,
+            "Velez Sarsfield": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Velez Sarsfield"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 2,
+            "Lanus": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Defensa Y Justicia"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 2,
+            "Lanus": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Banfield"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Barracas Central": 0,
+            "Lanus": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Barracas Central"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 3,
+            "Sol de Mayo": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Sol de Mayo"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 0,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Sarmiento Junin"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 1,
+            "Lanus": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Sarmiento Junin"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 2,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Instituto Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }}
+]

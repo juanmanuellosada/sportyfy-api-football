@@ -1,0 +1,512 @@
+[
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 3,
+            "River Plate": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "River Plate"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 3,
+            "Argentinos JRS": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Arsenal Sarandi"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 2,
+            "Atletico Tucuman": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 0,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Banfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Talleres Cordoba": 1,
+            "Argentinos JRS": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Talleres Cordoba"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 3,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 0,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 3,
+            "Argentinos JRS": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Gimnasia L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 1,
+            "Huracan": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Huracan"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 3,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Rosario Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 1,
+            "Velez Sarsfield": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Velez Sarsfield"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 1,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Rosario Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 0,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Racing Club"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 1,
+            "River Plate": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "River Plate"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 0,
+            "Argentinos JRS": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Belgrano Cordoba"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 1,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 0,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Tigre"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 1,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Arsenal Sarandi"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 0,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 3,
+            "Godoy Cruz": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Godoy Cruz"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 1,
+            "Argentinos JRS": 5
+        }},
+        "partido": {
+            "visitante": {"nombre": "Union Santa Fe"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 0,
+            "Huracan": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Huracan"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 4,
+            "Argentinos JRS": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Gimnasia L.P."},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Argentinos JRS": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 2,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 1,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Boca Juniors"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Talleres Cordoba": 1,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Talleres Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 1,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 1,
+            "Velez Sarsfield": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Velez Sarsfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 1,
+            "Argentinos JRS": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Defensa Y Justicia"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 1,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Banfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Barracas Central": 0,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Barracas Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 2,
+            "San Lorenzo": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "San Lorenzo"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 2,
+            "Estudiantes L.P.": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes L.P."},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Deportivo Armenio": 0,
+            "Argentinos JRS": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Deportivo Armenio"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 2,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Instituto Cordoba"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 2,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Sarmiento Junin"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 0,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Instituto Cordoba"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente del Valle": 0,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente del Valle"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 1,
+            "Corinthians": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Corinthians"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Liverpool Montevideo": 2,
+            "Argentinos JRS": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Liverpool Montevideo"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 0,
+            "Corinthians": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Corinthians"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Liverpool Montevideo": 1,
+            "Argentinos JRS": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Liverpool Montevideo"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente del Valle": 3,
+            "Argentinos JRS": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Independiente del Valle"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Patronato": 1,
+            "Argentinos JRS": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Patronato"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Fluminense": 1,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Fluminense"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Fluminense": 2,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Fluminense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 0,
+            "San Martin S.J.": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "San Martin S.J."},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }}
+]

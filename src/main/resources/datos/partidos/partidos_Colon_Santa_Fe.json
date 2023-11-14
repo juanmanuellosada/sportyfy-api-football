@@ -1,0 +1,502 @@
+[
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Colon Santa Fe": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 0,
+            "Colon Santa Fe": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Gimnasia L.P."},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Huracan": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Huracan"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 1,
+            "Colon Santa Fe": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Rosario Central"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 3,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Union Santa Fe": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Union Santa Fe"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Barracas Central": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Barracas Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "River Plate": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "River Plate"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 1,
+            "Colon Santa Fe": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Arsenal Sarandi"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 2,
+            "Colon Santa Fe": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Banfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 3,
+            "Talleres Cordoba": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Talleres Cordoba"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Lanus": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Godoy Cruz": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Godoy Cruz"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 1,
+            "Colon Santa Fe": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Union Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Huracan": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Huracan"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 0,
+            "Colon Santa Fe": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Gimnasia L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Colon Santa Fe": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 1,
+            "Colon Santa Fe": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "Talleres Cordoba": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Talleres Cordoba"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "Velez Sarsfield": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Velez Sarsfield"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 2,
+            "Colon Santa Fe": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Defensa Y Justicia"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "Banfield": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Banfield"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Barracas Central": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Barracas Central"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "Central Cordoba de Santiago": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "San Lorenzo": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "San Lorenzo"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Estudiantes L.P.": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes L.P."},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 1,
+            "Colon Santa Fe": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Rosario Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 4,
+            "Colon Santa Fe": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Racing Club"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "River Plate": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "River Plate"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Belgrano Cordoba": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Belgrano Cordoba"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Argentinos JRS": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 3,
+            "Colon Santa Fe": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Tigre"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 2,
+            "Colon Santa Fe": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Arsenal Sarandi"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colegiales": 0,
+            "Colon Santa Fe": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colegiales"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Velez Sarsfield": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Velez Sarsfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "River Plate": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "River Plate"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Nacional": 1,
+            "Colon Santa Fe": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Nacional"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 3,
+            "Colon Santa Fe": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Instituto Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 2,
+            "Colon Santa Fe": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Sarmiento Junin"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 1,
+            "Colon Santa Fe": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Instituto Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Velez Sarsfield": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Velez Sarsfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "CA River Plate": 1,
+            "Colon Santa Fe": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "CA River Plate"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Club Nacional": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Club Nacional"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 0,
+            "Colon Santa Fe": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Instituto Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 2,
+            "Talleres Cordoba": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Talleres Cordoba"}
+        }
+    }}
+]

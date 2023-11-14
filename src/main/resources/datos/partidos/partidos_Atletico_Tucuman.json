@@ -1,0 +1,452 @@
+[
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Rosario Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 2,
+            "Atletico Tucuman": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Barracas Central": 0,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Barracas Central"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 0,
+            "River Plate": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "River Plate"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 0,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Arsenal Sarandi"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 1,
+            "Velez Sarsfield": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Velez Sarsfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Banfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Talleres Cordoba": 0,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Talleres Cordoba"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 1,
+            "Atletico Tucuman": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Gimnasia L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 1,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Talleres Cordoba": 2,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Talleres Cordoba"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 1,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 1,
+            "Velez Sarsfield": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Velez Sarsfield"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 3,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Defensa Y Justicia"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 0,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Banfield"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Barracas Central": 1,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Barracas Central"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 1,
+            "San Lorenzo": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "San Lorenzo"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 0,
+            "Estudiantes L.P.": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Estudiantes L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 2,
+            "Atletico Tucuman": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Rosario Central"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 1,
+            "Atletico Tucuman": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Racing Club"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 1,
+            "River Plate": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "River Plate"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 1,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Belgrano Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 2,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Tigre"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 0,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Arsenal Sarandi"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 2,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 2,
+            "Godoy Cruz": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Godoy Cruz"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 0,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Union Santa Fe"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 1,
+            "Huracan": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Huracan"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 0,
+            "Atletico Tucuman": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Gimnasia L.P."},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 0,
+            "Atletico Tucuman": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Estudiantes de Rio Cuarto": 3,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes de Rio Cuarto"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Cesar Vallejo": 2,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Cesar Vallejo"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 0,
+            "Boston River": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Boston River"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Atletico Tucuman": 1,
+            "Estudiantes L.P.": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes L.P."},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Instituto Cordoba"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 1,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Instituto Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 4,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Sarmiento Junin"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "The Strongest": 1,
+            "Atletico Tucuman": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "The Strongest"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }}
+]

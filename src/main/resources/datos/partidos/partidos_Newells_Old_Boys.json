@@ -1,0 +1,512 @@
+[
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 2,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 1,
+            "Lanus": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 1,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Belgrano Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 1,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Union Santa Fe"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 2,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Racing Club"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Estudiantes L.P.": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes L.P."},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 1,
+            "Newells Old Boys": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Rosario Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 3,
+            "San Lorenzo": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "San Lorenzo"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 0,
+            "Newells Old Boys": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Tigre"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Godoy Cruz": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Godoy Cruz"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 1,
+            "Newells Old Boys": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 2,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 1,
+            "Velez Sarsfield": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Velez Sarsfield"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 1,
+            "Newells Old Boys": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Defensa Y Justicia"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 0,
+            "Newells Old Boys": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Banfield"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 1,
+            "Barracas Central": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Barracas Central"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 1,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Colon Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 1,
+            "San Lorenzo": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "San Lorenzo"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Estudiantes L.P.": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Estudiantes L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 0,
+            "Newells Old Boys": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Rosario Central"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 0,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Racing Club"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "River Plate": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "River Plate"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 1,
+            "Newells Old Boys": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Belgrano Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 2,
+            "Newells Old Boys": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Tigre"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 0,
+            "Newells Old Boys": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Arsenal Sarandi"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Lanus"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 2,
+            "Godoy Cruz": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Godoy Cruz"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 1,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Union Santa Fe"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 1,
+            "Huracan": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Huracan"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 2,
+            "Newells Old Boys": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Gimnasia L.P."},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 2,
+            "Newells Old Boys": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Newells Old Boys": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Atletico Tucuman": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 2,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 1,
+            "Talleres Cordoba": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Talleres Cordoba"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Claypole": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Claypole"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 1,
+            "Newells Old Boys": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Sarmiento Junin"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 3,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Instituto Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 0,
+            "Newells Old Boys": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Sarmiento Junin"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Godoy Cruz": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Godoy Cruz"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Godoy Cruz": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Godoy Cruz"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "A. Italiano": 0,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "A. Italiano"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 3,
+            "Blooming": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Blooming"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Santos": 0,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Santos"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Blooming": 2,
+            "Newells Old Boys": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Blooming"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Santos": 1,
+            "Newells Old Boys": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Santos"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "A. Italiano": 1,
+            "Newells Old Boys": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "A. Italiano"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 1,
+            "Corinthians": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Corinthians"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Corinthians": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Corinthians"},
+            "local": {"nombre": "Newells Old Boys"}
+        }
+    }}
+]

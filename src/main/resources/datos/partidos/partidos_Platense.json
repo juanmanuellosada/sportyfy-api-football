@@ -1,0 +1,422 @@
+[
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 3,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 0,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Defensa Y Justicia"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 3,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 1,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 3,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Belgrano Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 0,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Union Santa Fe"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 0,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Argentinos JRS"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 1,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Racing Club"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 2,
+            "Estudiantes L.P.": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes L.P."},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "San Lorenzo": 1,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "San Lorenzo"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 0,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 0,
+            "Godoy Cruz": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Godoy Cruz"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 1,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Tigre"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Newells Old Boys": 2,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 1,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Atletico Tucuman"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 3,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Talleres Cordoba": 4,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Talleres Cordoba"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Central Cordoba de Santiago": 1,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 1,
+            "Velez Sarsfield": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Velez Sarsfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 0,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Defensa Y Justicia"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Banfield": 0,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Banfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Barracas Central": 1,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Barracas Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Colon Santa Fe": 0,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "San Lorenzo": 1,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "San Lorenzo"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 1,
+            "Estudiantes L.P.": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes L.P."},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Rosario Central": 4,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Rosario Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 0,
+            "Platense": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Racing Club"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 1,
+            "River Plate": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "River Plate"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Belgrano Cordoba": 0,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Belgrano Cordoba"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Argentinos JRS": 1,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Tigre": 0,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Tigre"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Arsenal Sarandi": 0,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Arsenal Sarandi"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Lanus": 1,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 1,
+            "Godoy Cruz": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Godoy Cruz"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Union Santa Fe": 0,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Union Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 0,
+            "Huracan": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Huracan"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 1,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Gimnasia L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Platense": 2,
+            "Defensores De Belgrano": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Defensores De Belgrano"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Instituto Cordoba": 0,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Instituto Cordoba"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Sarmiento Junin": 0,
+            "Platense": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Sarmiento Junin"},
+            "local": {"nombre": "Platense"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "San Lorenzo": 0,
+            "Platense": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "San Lorenzo"}
+        }
+    }}
+]

@@ -1,0 +1,452 @@
+[
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Colon Santa Fe": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Velez Sarsfield": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Velez Sarsfield"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 1,
+            "Independiente": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Gimnasia L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Huracan": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Huracan"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Rosario Central": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Rosario Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Racing Club": 0,
+            "Independiente": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Racing Club"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Argentinos JRS": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 3,
+            "Barracas Central": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Barracas Central"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "River Plate": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "River Plate"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Arsenal Sarandi": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Arsenal Sarandi"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Banfield": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Banfield"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Talleres Cordoba": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Talleres Cordoba"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Platense": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Platense"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Velez Sarsfield": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Velez Sarsfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Defensa Y Justicia": 2,
+            "Independiente": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Defensa Y Justicia"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Banfield": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Banfield"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Barracas Central": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Barracas Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Colon Santa Fe": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Colon Santa Fe"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "San Lorenzo": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "San Lorenzo"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Estudiantes L.P.": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes L.P."},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Rosario Central": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Rosario Central"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Racing Club": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Racing Club"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "River Plate": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "River Plate"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Belgrano Cordoba": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Belgrano Cordoba"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Argentinos JRS": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Argentinos JRS"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Tigre": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Tigre"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Arsenal Sarandi": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Arsenal Sarandi"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Lanus": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Lanus"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Godoy Cruz": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Godoy Cruz"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Union Santa Fe": 3
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Union Santa Fe"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Huracan": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Huracan"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Gimnasia L.P.": 1,
+            "Independiente": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Gimnasia L.P."}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Newells Old Boys": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Newells Old Boys"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Central Cordoba de Santiago"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Atletico Tucuman": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Atletico Tucuman"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 2,
+            "Independiente": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Boca Juniors"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 3,
+            "Ciudad de Bolívar": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Ciudad de Bolívar"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Instituto Cordoba": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Instituto Cordoba"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Instituto Cordoba": 2
+        }},
+        "partido": {
+            "visitante": {"nombre": "Instituto Cordoba"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Sarmiento Junin": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Sarmiento Junin"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Boca Juniors": 0,
+            "Independiente": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Independiente"},
+            "local": {"nombre": "Boca Juniors"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 2,
+            "Everton de Vina": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Everton de Vina"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 0,
+            "Central Cordoba de Santiago": 0
+        }},
+        "partido": {
+            "visitante": {"nombre": "Central Cordoba de Santiago"},
+            "local": {"nombre": "Independiente"}
+        }
+    }},
+    {"resultadoPartido": {
+        "resultado": {"marcadorPorEquipo": {
+            "Independiente": 1,
+            "Estudiantes L.P.": 1
+        }},
+        "partido": {
+            "visitante": {"nombre": "Estudiantes L.P."},
+            "local": {"nombre": "Independiente"}
+        }
+    }}
+]

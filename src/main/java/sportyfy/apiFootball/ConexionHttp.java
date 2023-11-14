@@ -2,26 +2,36 @@ package sportyfy.apiFootball;
 
 import java.io.*;
 import java.net.HttpURLConnection;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.net.URL;
+import java.util.stream.Collectors;
 
+/**
+ * Clase para abrir y obtener la respuesta de una conexión HTTP
+ *
+ */
 public class ConexionHttp {
 
-    public static HttpURLConnection abrirConexion(URL url, String hostNombre, String hostValor, String keyNombre, String keyValor) throws IOException {
-        HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+    /**
+     * Método para abrir una conexión HTTP
+     */
+    public static HttpURLConnection abrirConexion(String urlString, String hostNombre, String hostValor,
+            String keyNombre, String keyValor) throws IOException, URISyntaxException {
+        URI uri = new URI(urlString);
+        HttpURLConnection connection = (HttpURLConnection) uri.toURL().openConnection();
         connection.setRequestMethod("GET");
         connection.setRequestProperty(hostNombre, hostValor);
         connection.setRequestProperty(keyNombre, keyValor);
         return connection;
     }
 
+    /**
+     * Método para obtener la respuesta de una conexión HTTP
+     */
     public static String obtenerRespuesta(HttpURLConnection connection) throws IOException {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()))) {
-            StringBuilder response = new StringBuilder();
-            String line;
-            while ((line = reader.readLine()) != null) {
-                response.append(line);
-            }
-            return response.toString();
+            return reader.lines().collect(Collectors.joining("\n"));
         }
     }
 }
